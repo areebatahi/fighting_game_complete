@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+.cantainer {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHDsUuSlwIb2Xoot1-4mWZQVKy2x9ratfBkg&s');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.characters{
+    height: 200px;
+    width: 150px;
+    position: absolute;
+    bottom: 30px;
+}
+.characters2{
+    height: 200px;
+    width: 150px;
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+}
